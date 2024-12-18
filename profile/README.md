@@ -63,8 +63,8 @@
 |Name|Github ID|Role|
 |------|-------|------|
 |이태환|[HwantaLee](https://github.com/HwantaLee)|Team Leader, Back-end|
-|김수민|[angelsusum](https://github.com/angelsusum)|Front-end|
 |김건우|[gnvvoo](https://github.com/gnvvoo)|Front-end|
+|김수민|[angelsusum](https://github.com/angelsusum)|Front-end|
 |조서희|[JoeSeoHee](https://github.com/JoeSeoHee)|Back-end|
 
 <br>
